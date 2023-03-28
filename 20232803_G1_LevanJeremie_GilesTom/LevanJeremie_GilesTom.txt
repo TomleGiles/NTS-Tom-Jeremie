@@ -1,0 +1,3 @@
+Dans ce jeu vous devez taper sur les formes de couleurs, une fois sur les rouges, deux sur les bleues et trois sur les vertes.
+Le bouton permet de faire apparaitre plus d'enemies.
+backend scripting : IL2CPP
